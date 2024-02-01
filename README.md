@@ -1,13 +1,13 @@
 # Triangular-Sentences
-"Decryption" program i made for a job application \n
-Written in Java
+- "Decryption" program i made for a job application
+- Written in Java
 
 ## Problem
 ![image](https://github.com/TobyTowler/Triangular-Sentences/assets/135618916/0522f7b2-cc43-437a-93ec-b2f07ed051c5)
 
 
 ## Solution
-- Read files in line by line
+- Read lines from file
 - split line into 2 parts, numbers and text
 - store in map, numbers as key, string as value
 - Pyramid pattern means only triangular numbers are used

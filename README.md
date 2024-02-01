@@ -1,5 +1,5 @@
 # Triangular-Sentences
-"Decryption" program i made for a job application
+"Decryption" program i made for a job application \n
 Written in Java
 
 ## Problem
